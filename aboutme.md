@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Here are more things to know more about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Dylen Austria. I have the following qualities:
 
-- I rock a great mustache
+- I rock a great goatee
 - I'm extremely loyal to my family
+- I listen to music
 
 What else do you need?
 
