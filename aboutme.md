@@ -1,17 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Here are more things to know more about me
+subtitle: Here is the reason why I am taking eTextiles
 ---
 
-My name is Dylen Austria. I have the following qualities:
-
-- I rock a great goatee
-- I'm extremely loyal to my family
-- I listen to music
-
+My name is Dylen Austria. 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+So where do I start, 
