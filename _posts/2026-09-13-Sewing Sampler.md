@@ -3,7 +3,7 @@ layout: post
 title: Sewing Sampler Project
 subtitle: Take a look at my sewing project!!!!
 cover-img: /assets/img/Hayes Hall.jpeg
-thumbnail-img: /assets/img/Front Side Stitches.jpeg
+thumbnail-img: /assets/img/Front%20Side%20Stitches.jpg
 share-img: /assets/img/Hayes Hall.jpeg
 ---
 
