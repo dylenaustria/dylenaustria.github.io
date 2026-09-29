@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Half-Inputs Assignment
+title: Circuit Plushy Assignment
 subtitle: Circuit Plushy Assignment!!
 cover-img: /assets/img/Hayes Hall.jpeg
-thumbnail-img: /assets/img/Arduino-logo.jpeg
+thumbnail-img: /assets/img/Front-Plushy.jpeg
 share-img: /assets/img/Hayes Hall.jpeg
 ---
 
