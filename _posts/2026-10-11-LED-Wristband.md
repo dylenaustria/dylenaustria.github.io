@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Circuit Plushy Assignment
-subtitle: Circuit Plushy Assignment!!
+title: LED Wristband Assignment
+subtitle: LED Wristband Assignment!!
 cover-img: /assets/img/Hayes Hall.jpeg
-thumbnail-img: /assets/img/Front-Plushy.jpeg
+thumbnail-img: /assets/img/Wristfront.jpeg
 share-img: /assets/img/Hayes Hall.jpeg
 ---
 
-Here we were tasked to make a light-up plushy that uses a slide switch and a button to light on/off described in Q5 of the Simple Circuits Worksheet. I connected the electronic components with conductive thread. After connecting the components together, I decorated with embroidery floss using a couple of stitches and finally assembled the plushy with non-conductive thread. Also a tip/trick that I used while sewing the components together is to make sure that the non-conductive threads are tight when you're taking  them and also make sure to secure the components again tightly with the conductive thread. I hope you all like my plushy :)
+Here we were tasked to make a light-up LED wristband that uses two switches where one is a homemade switch and the other is a conductive snap. My wristband takes inspiration of the red omnitrix from the kid TV-show Ben-10. Also a tip/trick that I used while sewing the components together is to make sure that the non-conductive threads are tight when you're taking  them and also make sure to secure the components again tightly with the conductive thread. I hope you all like my wristband :)
 
-![Paper](https://dylenaustria.github.io/assets/img/Paper-Prot.jpeg)
-![AClip](https://dylenaustria.github.io/assets/img/AClip-Prototype.jpeg)
-![FrontPlushy](https://dylenaustria.github.io/assets/img/Front-Plushy.jpeg)
-![BackPlushy](https://dylenaustria.github.io/assets/img/Black-Plushy.jpeg)
+![Paper](https://dylenaustria.github.io/assets/img/Wristpaperprot.jpeg)
+![AClip](https://dylenaustria.github.io/assets/img/Wristprot.jpeg)
+![FrontWrist](https://dylenaustria.github.io/assets/img/Wristfront.jpeg)
+![BackWrist](https://dylenaustria.github.io/assets/img/Wristback.jpeg)
