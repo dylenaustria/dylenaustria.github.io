@@ -1,0 +1,14 @@
+---
+layout: post
+title: Responsive Buttons Assignemnt
+subtitle: New Assignment Alert!! - Coding buttons to turn on/off LEDs
+cover-img: /assets/img/Hayes Hall.jpeg
+thumbnail-img: /assets/img/Arduino-logo.jpeg
+share-img: /assets/img/Hayes Hall.jpeg
+---
+
+Recently in class, we learned about Booleans and here we made a code will allow us to simulate a button and a switch. So that for each combinations of btn and swt, a different color of LED should turn on. We choose which values turn on which colors of LEDs, but we have to code it in a way that only one color of LEDs should be on at a time.
+
+Here I chose to do a nested conditional rather than logical operators because I thought it would be easier to read because of its structure and makes more sense to me since we talked about it in class.
+
+A tip/trick that I used here is to make sure to section my code. By doing this tip, I can better understand my code and make my code look neat and clean. Also it can help to see where errors are located as well. 
