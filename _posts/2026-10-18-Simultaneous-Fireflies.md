@@ -3,7 +3,7 @@ layout: post
 title: Combining All Fireflies!
 subtitle: New Assignment Alert!! - Simultaneous-Fireflies
 cover-img: /assets/img/Hayes Hall.jpeg
-thumbnail-img: /assets/img/Arduino-logo.jpeg
+thumbnail-img: /assets/img/fireflies.jpeg
 share-img: /assets/img/Hayes Hall.jpeg
 ---
 
