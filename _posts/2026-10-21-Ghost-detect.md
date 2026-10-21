@@ -3,7 +3,7 @@ layout: post
 title: GhostBusters???
 subtitle: New Assignment Alert!! - DIY Ghost Detection Device
 cover-img: /assets/img/Hayes Hall.jpeg
-thumbnail-img: /assets/img/fireflies.jpeg
+thumbnail-img: /assets/img/ghost.jpeg
 share-img: /assets/img/Hayes Hall.jpeg
 ---
 
