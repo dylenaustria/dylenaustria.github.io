@@ -16,4 +16,4 @@ A tip/trick that I did here to make sure that my code worked is that I copied th
 
 
 ![Ghost-Wire](https://dylenaustria.github.io/assets/img/Ghost-wire.jpeg)
-![SM-Ghost](https://dylenaustria.github.io/assets/img/SMonitor-Ghost)
+![SM-Ghost](https://dylenaustria.github.io/assets/img/SMonitor-Ghost.jpg)
