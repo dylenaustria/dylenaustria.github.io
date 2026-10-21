@@ -12,7 +12,8 @@ After spending time working with our light and temperature sensors, we are task 
 The goal of this code was to make a code that allows our Light and Temperature to detect the conditions of the environment.
 We had to code it in a way within our thresholds that when the outside conditions violate the thresholds, the red LEDs on our Protosnap Plus board and the onboard red RGB lights up. The LEDs notifies us that there is a Kenyon Ghost nearby.
 
-A tip/trick that I did here to make sure that my code worked is that I copied the code and pasted it onto a separate file and switched the thresholds. Our code only works when the condition is cold and dark, so here I flipped the conditionals that when the environment is bright and warm, the LEDs light up.
+A tip/trick that I did here to make sure that my code worked is that I copied the code and pasted it onto a separate file and switched the thresholds. Our code only works when the condition is cold and dark, so here I flipped the conditionals that when the environment is bright and warm, the LEDs light up. I included the outputs from my Serial Monitor and the values you see made the LEDs light up.
+
 
 
 ![Ghost-Wire](https://dylenaustria.github.io/assets/img/Ghost-wire.jpeg)
