@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Jammin'
-subtitle: Playing music out of our buzzers
+title: Project Proposals
+subtitle: Giving Halloween costume a revive!
 cover-img: /assets/img/Hayes Hall.jpeg
 thumbnail-img: /assets/img/Arduino-logo.jpeg
 share-img: /assets/img/Hayes Hall.jpeg
