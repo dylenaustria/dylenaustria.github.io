@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project Paper Prototypes
-subtitle: Sharkboy Costume
+title: First Project Piece
+subtitle: 1/3 Sharkboy Costume
 cover-img: /assets/img/Hayes Hall.jpeg
 thumbnail-img: /assets/img/glowing-shark.jpeg
 share-img: /assets/img/Hayes Hall.jpeg
